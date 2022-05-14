@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/99549985/168420225-61c8761f-e22b-462b-92a0-75cb8a885641.gif)](https://github.com/suranaarpit)
+[![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/suranaarpit)
 <h1 align="center">Hi 👋, I'm Arpit Surana</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <br/>
