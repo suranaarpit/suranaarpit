@@ -1,4 +1,4 @@
-[![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://github.com/suranaarpit)
+[![MasterHead](https://user-images.githubusercontent.com/99549985/168420225-61c8761f-e22b-462b-92a0-75cb8a885641.gif)](https://github.com/suranaarpit)
 <h1 align="center">Hi 👋, I'm Arpit Surana</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <br/>
