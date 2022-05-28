@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://arpit-surana.netlify.app/)
+- 👨‍💻 All my projects are available at my [Portfolio](https://arpit-surana.vercel.app/)
 
 - 📫 How to reach me **suranaarpit34@gmail.com**
 
