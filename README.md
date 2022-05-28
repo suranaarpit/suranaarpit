@@ -27,7 +27,6 @@
 <a href="https://instagram.com/suranaarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suranaarpit" height="30" width="40" /></a>
 <a href="https://fb.com/arpit.surana.5205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arpit.surana.5205" height="30" width="40" /></a>
 <a href="https://medium.com/@suranaarpit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suranaarpit34" height="30" width="40" /></a>
-<a href="https://codepen.io/suranaarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suranaarpit" height="30" width="40" /></a>
 <a href="https://codesandbox.com/suranaarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="suranaarpit" height="30" width="40" /></a>
 </p>
 
