@@ -37,12 +37,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suranaarpit&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="suranaarpit" /></p>
 
 <p align="center">
-    <a href="https://github.com/suranaarpit/github-readme-streak-stats">
+    <a href="https://github.com/suranaarpit">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suranaarpit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/suranaarpit/github-readme-stats"><img alt="Arpit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suranaarpit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/suranaarpit"><img alt="Arpit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suranaarpit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <br />
 
