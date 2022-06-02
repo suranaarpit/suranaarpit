@@ -1,6 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/suranaarpit)
 <h1 align="center">Hi 👋, I'm Arpit Surana</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
+<p align= "center">
+<img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
+<img src="https://img.shields.io/badge/E-Express-black"/>
+<img src="https://img.shields.io/badge/R-React-skyblue"/>
+<img src="https://img.shields.io/badge/N-Node-green"/>
+<img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
+</p>
+
 <br/>
 <br/>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
