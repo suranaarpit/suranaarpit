@@ -27,6 +27,8 @@
 
 - 👨‍💻 All my projects are available at my [Portfolio](https://arpit-surana.vercel.app/)
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13yK38tA1-g1lYkk0lzpfDTGrYdkB7eNg/view?usp=sharing)
+
 - 📫 How to reach me **suranaarpit34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
