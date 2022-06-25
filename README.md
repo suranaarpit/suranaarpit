@@ -1,11 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/suranaarpit)
 <h1 align="center">Hi 👋, I'm Arpit Surana</h1>
-<h3 align="center">Aspiring MERN Stack Developer dedicated to
-developing and optimizing interactive, user-friendly,
-and feature-rich websites. Strong attention to detail in
-order to bridge the gap between the strategic plan and
-actual execution, delivering effective and efficient web
-solutions.</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
