@@ -58,6 +58,10 @@
     </p>
 <br />
 
+![snake gif](https://github.com/suranaarpit/suranaarpit/blob/output/github-contribution-grid-snake.gif)
+
+<br />
+
 [![Arpit Surana GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=suranaarpit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/suranaarpit)
 
 <p align="center">
