@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://arpit-surana.vercel.app/)
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13yK38tA1-g1lYkk0lzpfDTGrYdkB7eNg/view?usp=sharing)
+
+- 🗺️ Want to know more? Check out my [Portfolio](https://arpit-surana.vercel.app/) 🌐
 
 - 📫 How to reach me **suranaarpit34@gmail.com**
 
