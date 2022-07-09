@@ -58,9 +58,13 @@
     </p>
 <br />
 
-![snake gif](https://github.com/suranaarpit/suranaarpit/blob/output/github-contribution-grid-snake.gif)
-
 [![Arpit Surana GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=suranaarpit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/suranaarpit)
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/suranaarpit/suranaarpit/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
