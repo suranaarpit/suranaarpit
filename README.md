@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript & React**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13yK38tA1-g1lYkk0lzpfDTGrYdkB7eNg/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13yK38tA1-g1lYkk0lzpfDTGrYdkB7eNg/view?usp=drivesdk)
 
 - 🗺️ Want to know more? Check out my [Portfolio](https://arpit-surana.vercel.app/) 🌐
 
