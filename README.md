@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & React**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rOpCrItrYDqACTAggNokxRP032wBb2xD/view?usp=drivesdk)
 
 - 🗺️ Want to know more? Check out my [Portfolio](https://arpit-surana.vercel.app/) 🌐
