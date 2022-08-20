@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Dt62mhB4upsNTiM0BZZheAKZXbFABoW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13PkuEed55gHxNkIOCCf_beAUnpiBiRdz/view?usp=sharing)
 
 - 🗺️ Want to know more? Check out my [Portfolio](https://arpit-surana.vercel.app/) 🌐
 
@@ -33,7 +33,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/suranaarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suranaarpit" height="30" width="40" /></a>
 <a href="https://twitter.com/suranaarpit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suranaarpit34" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suranaarpit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suranaarpit34" height="30" width="40" /></a>
 <a href="https://medium.com/@suranaarpit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suranaarpit34" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/suranaarpit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="suranaarpit" height="30" width="40" /></a>
 </p>
