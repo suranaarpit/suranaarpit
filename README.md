@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rOpCrItrYDqACTAggNokxRP032wBb2xD/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_Dt62mhB4upsNTiM0BZZheAKZXbFABoW/view?usp=sharing)
 
 - 🗺️ Want to know more? Check out my [Portfolio](https://arpit-surana.vercel.app/) 🌐
 
