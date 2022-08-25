@@ -1,11 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/99549985/168443822-51841acd-0bff-4920-b51f-0338080eec7f.gif)](https://github.com/suranaarpit)
 <h1 align="center">Hi 👋, I'm Arpit Surana</h1>
-<h4 align="center">Aspiring MERN Stack Web Developer dedicated to
-developing and optimizing interactive, user-friendly,
-and feature-rich websites. Strong attention to detail in
-order to bridge the gap between the strategic plan and
-actual execution, delivering effective and efficient web
-solutions.</h4>
+<p>I am a Full stack developer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out <a href="https://www.linkedin.com/in/suranaarpit/">@suranaarpit</a> or give some ❤ on <a href="mailto:suranaarpit34@gmail.com">mail.</a> Feel free to reach out in case you want to just get in touch also.</p>
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
