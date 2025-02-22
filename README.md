@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://twitter.com/suranaarpit34" target="blank"><img src="https://img.shields.io/twitter/follow/suranaarpit34?logo=twitter&style=for-the-badge" alt="suranaarpit34" /></a> </p>
 
 
-- 🔭 I’m currently pursuing  **Full Stack Web Development**
+- 🔭 I’m a **Frontend-Focused Full Stack Web Developer**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Python**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13PkuEed55gHxNkIOCCf_beAUnpiBiRdz/view?usp=sharing)
 
