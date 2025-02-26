@@ -45,7 +45,7 @@
 
 <p align="center">
     <a href="https://github.com/suranaarpit">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suranaarpit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="Arpit Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suranaarpit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
 </p>
 <p align="center">
